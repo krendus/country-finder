@@ -1,6 +1,7 @@
 .container {
   padding-top: 90px;
-  max-width: 90%;
+  width: 90%;
+  max-width: 1100px;
   margin: 0 auto;
 }
 .button {
