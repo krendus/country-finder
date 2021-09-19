@@ -60,7 +60,7 @@ const LandingPage = () => {
         })
     }, [])
 
-    const regions = ['Africa', 'Americas', 'Asia', 'Europe', 'Oceania']
+    const regions = ['All','Africa', 'Americas', 'Asia', 'Europe', 'Oceania']
     return (
         <div className={styles.container}>
             <div className={styles.topBar}>

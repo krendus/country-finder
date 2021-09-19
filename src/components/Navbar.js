@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className={`${mode ==='light'? lightStyles.element: darkStyles.element} ${styles.nav}`} >
             <div className={styles.content}>
                 <span className={styles.header} onClick={goHome}>Where in the world?</span>
-                <span onClick={changeMode} className={styles.button}>{mode === 'light' ? <FaRegMoon /> : <FaMoon />} Dark Mode</span>   
+                <span onClick={changeMode} className={styles.button}>{mode === 'light' ? <><FaRegMoon /> Dark Mode</>: <><FaMoon /> Light Mode</>} </span>   
             </div>
             
         </div>

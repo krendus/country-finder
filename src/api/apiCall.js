@@ -8,6 +8,9 @@ export const searchCountry = ({search}) => {
     return axios.get(`${HOST}/name/${search}`)
 }
 export const getAllCountryInRegion = ({region}) => {
+    if(region === 'All') {
+        return axios.get(`${HOST}/all`)
+    }
     return axios.get(`${HOST}/region/${region}`)
 } 
 export const getOneCountry = ({code}) => {
