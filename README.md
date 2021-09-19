@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://your-solution-url.com)
+- Live Site URL: [Live site URL](https://country-getter.netlify.app)
 
 ## My process
 
@@ -44,6 +44,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Samuel Lawal](https://www.your-site.com)
+- Website - [Samuel Lawal](https://github.com/samurai1979)
 - Frontend Mentor - [@samurai1979](https://www.frontendmentor.io/profile/samurai1979)
 - Twitter - [@samurai_lawal](https://www.twitter.com/samurai_lawal)
