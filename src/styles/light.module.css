@@ -1,0 +1,15 @@
+.element {
+  background-color: var(--dark-mode-text-lmode-element);
+  color: var(--light-mode-text);
+  box-shadow: var(--light-box-shadow);
+}
+.body {
+  background-color: var(--light-mode-background);
+  color: var(--light-mode-text);
+}
+.elementColor {
+  color: var(--light-mode-text);
+}
+.inputColor {
+  color: var(--light-mode-input);
+}

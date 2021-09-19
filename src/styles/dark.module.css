@@ -1,0 +1,12 @@
+.element {
+  background-color: var(--dark-mode-element-background);
+  color: var(--dark-mode-text-lmode-element);
+  box-shadow: var(--dark-box-shadow);
+}
+.body {
+  background-color: var(--dark-mode-background);
+  color: var(--dark-mode-text-lmode-element);
+}
+.elementColor {
+  color: var(--dark-mode-text-lmode-element);
+}

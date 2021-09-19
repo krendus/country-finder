@@ -1,0 +1,35 @@
+.container {
+  width: 250px;
+  max-width: 250px;
+  height: 300px;
+  max-height: 300px;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 15px 0;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+.container img {
+  height: 45%;
+  width: 100%;
+  min-height: 45%;
+  min-width: 100%;
+}
+.details {
+  padding: 20px;
+}
+.name {
+  font-weight: 800;
+  font-size: 16px;
+  padding: 7px 0;
+}
+.subDetails span {
+  font-size: 14px;
+  font-weight: 600;
+}
+@media screen and (max-width: 600px) {
+  .container {
+    margin: 15px auto;
+  }
+}
