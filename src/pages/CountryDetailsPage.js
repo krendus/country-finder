@@ -107,7 +107,7 @@ const CountryDetailsPage = () => {
                             borders.map(border => {
                                 return <span className={`${mode === 'light' ? lightStyles.element : darkStyles.element} ${styles.border} `} onClick={()=> history.push(`/country/${border.code.toLowerCase()}`)}>{border.name}</span>
                             })
-                            : <span className={`${mode === 'light' ? lightStyles.element : darkStyles.element} ${styles.border} `}>No borders</span>
+                            : <span className={`${mode === 'light' ? lightStyles.element : darkStyles.element} ${styles.border} `}>No country</span>
                         }
                     </div>                 
                </div>
