@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/react-nLLmfdlVl)
 - Live Site URL: [Live site URL](https://country-getter.netlify.app)
 
 ## My process
