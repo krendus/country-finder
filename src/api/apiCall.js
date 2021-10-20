@@ -1,5 +1,5 @@
 import axios from "axios"
-const HOST = 'https://restcountries.eu/rest/v2'
+const HOST = 'https://restcountries.com/v2'
 
 export const getAllCountry = () => {
     return axios.get(`${HOST}/all`)
